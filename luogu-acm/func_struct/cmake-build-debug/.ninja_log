@@ -1,0 +1,8 @@
+# ninja log v5
+2	112	6934216289282366	CMakeFiles/func_struct.dir/main.c.obj	a72dd4352bcb5717
+90	185	6941933037804628	func_struct.exe	3dbab38fc2b80917
+2	87	6934246302279166	CMakeFiles/func_struct.dir/P5740.c.obj	585ad82cf3f2279a
+0	293	6941915537919221	CMakeFiles/func_struct.dir/P5739_.c.obj	c33e5bd245042953
+2	90	6941933036893837	CMakeFiles/func_struct.dir/P5741_.c.obj	1a866a4433766586
+0	375	6942881073227293	CMakeFiles/func_struct.dir/P5742.c.obj	2fa17c903db04e77
+376	600	6942881075384544	func_struct.exe	562d580bae0699ee
