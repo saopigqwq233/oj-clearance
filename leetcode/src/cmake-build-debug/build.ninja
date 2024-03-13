@@ -49,26 +49,20 @@ cmake_ninja_workdir = D$:/BITE/oj-clearance/leetcode/src/cmake-build-debug/
 
 build cmake_object_order_depends_target_src: phony || CMakeFiles/src.dir
 
-build CMakeFiles/src.dir/唯一字符.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/唯一字符.cpp || cmake_object_order_depends_target_src
-  DEP_FILE = CMakeFiles\src.dir\唯一字符.cpp.obj.d
+build CMakeFiles/src.dir/字符串最后一个单词长度.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/字符串最后一个单词长度.cpp || cmake_object_order_depends_target_src
+  DEP_FILE = CMakeFiles\src.dir\字符串最后一个单词长度.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\src.dir
   OBJECT_FILE_DIR = CMakeFiles\src.dir
 
-build CMakeFiles/src.dir/回文串.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/回文串.cpp || cmake_object_order_depends_target_src
-  DEP_FILE = CMakeFiles\src.dir\回文串.cpp.obj.d
+build CMakeFiles/src.dir/区间反转.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/区间反转.cpp || cmake_object_order_depends_target_src
+  DEP_FILE = CMakeFiles\src.dir\区间反转.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\src.dir
   OBJECT_FILE_DIR = CMakeFiles\src.dir
 
-build CMakeFiles/src.dir/反转字符串.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/反转字符串.cpp || cmake_object_order_depends_target_src
-  DEP_FILE = CMakeFiles\src.dir\反转字符串.cpp.obj.d
-  FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\src.dir
-  OBJECT_FILE_DIR = CMakeFiles\src.dir
-
-build CMakeFiles/src.dir/字符串转整数.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/字符串转整数.cpp || cmake_object_order_depends_target_src
-  DEP_FILE = CMakeFiles\src.dir\字符串转整数.cpp.obj.d
+build CMakeFiles/src.dir/字符串相乘.cpp.obj: CXX_COMPILER__src_unscanned_Debug D$:/BITE/oj-clearance/leetcode/src/字符串相乘.cpp || cmake_object_order_depends_target_src
+  DEP_FILE = CMakeFiles\src.dir\字符串相乘.cpp.obj.d
   FLAGS = -g -std=gnu++11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\src.dir
   OBJECT_FILE_DIR = CMakeFiles\src.dir
@@ -81,7 +75,7 @@ build CMakeFiles/src.dir/字符串转整数.cpp.obj: CXX_COMPILER__src_unscanned_Debug
 #############################################
 # Link the executable src.exe
 
-build src.exe: CXX_EXECUTABLE_LINKER__src_Debug CMakeFiles/src.dir/唯一字符.cpp.obj CMakeFiles/src.dir/回文串.cpp.obj CMakeFiles/src.dir/反转字符串.cpp.obj CMakeFiles/src.dir/字符串转整数.cpp.obj
+build src.exe: CXX_EXECUTABLE_LINKER__src_Debug CMakeFiles/src.dir/字符串最后一个单词长度.cpp.obj CMakeFiles/src.dir/区间反转.cpp.obj CMakeFiles/src.dir/字符串相乘.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\src.dir
