@@ -1,0 +1,9 @@
+# ninja log v5
+3	338	7338627515729948	CMakeFiles/24_4_3.dir/main.cpp.obj	9c442948dfdc98b4
+361	426	7338663038032524	24_4_3.exe	e63cb3fdebb6c5a2
+1	78	7338692826622346	build.ninja	93143e0c20396694
+6	324	7338648360316782	CMakeFiles/24_4_3.dir/pascals-triangle.cpp.obj	137a8d7c0d31299d
+1	360	7338663037392518	CMakeFiles/24_4_3.dir/single-number-ii.cpp.obj	dbc739f7b18346a3
+2	194	7338693588126867	CMakeFiles/24_4_3.dir/letter-combinations-of-a-phone-number.cpp.obj	b36c48db7330cfb8
+0	376	7338693589946875	CMakeFiles/24_4_3.dir/main.cpp.obj	9c442948dfdc98b4
+376	484	7338693590996855	24_4_3.exe	35c3f543d5305611

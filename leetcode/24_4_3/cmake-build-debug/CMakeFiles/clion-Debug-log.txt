@@ -1,0 +1,4 @@
+C:\Users\Administrator\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Administrator/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\BITE\oj-clearance\leetcode\24_4_3 -B D:\BITE\oj-clearance\leetcode\24_4_3\cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/BITE/oj-clearance/leetcode/24_4_3/cmake-build-debug
